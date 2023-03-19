@@ -1,0 +1,27 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/config/empty.yaml
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/config/view_bot.rviz
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/gazebo_control.xacro
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/gazebo_control1.xacro
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/robot_core.xacro
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/launch/launch_sim.launch.py
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/launch/rsp.launch.py
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/worlds/empty.world
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/ament_index/resource_index/package_run_dependencies/projectros
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/ament_index/resource_index/parent_prefix_path/projectros
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/path.sh
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/path.dsv
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.bash
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.sh
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.zsh
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.dsv
+-- Symlinking: /home/projectros/dev_ws/install/projectros/share/projectros/package.dsv
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/ament_index/resource_index/packages/projectros
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/cmake/projectrosConfig.cmake
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/cmake/projectrosConfig-version.cmake
+-- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/package.xml

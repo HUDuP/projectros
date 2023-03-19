@@ -1,0 +1,4 @@
+Invoking command in '/home/projectros/dev_ws/build/projectros': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/projectros/dev_ws/build/projectros -- -j1 -l1
+Invoked command in '/home/projectros/dev_ws/build/projectros' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/projectros/dev_ws/build/projectros -- -j1 -l1
+Invoking command in '/home/projectros/dev_ws/build/projectros': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/projectros/dev_ws/build/projectros
+Invoked command in '/home/projectros/dev_ws/build/projectros' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/projectros/dev_ws/build/projectros

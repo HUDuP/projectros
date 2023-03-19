@@ -1,0 +1,31 @@
+[0.017s] Invoking command in '/home/projectros/dev_ws/build/projectros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/projectros/dev_ws/build/projectros -- -j1 -l1
+[0.070s] Invoked command in '/home/projectros/dev_ws/build/projectros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/projectros/dev_ws/build/projectros -- -j1 -l1
+[0.098s] Invoking command in '/home/projectros/dev_ws/build/projectros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/projectros/dev_ws/build/projectros
+[0.110s] -- Install configuration: ""
+[0.112s] -- Execute custom install script
+[0.113s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/config/empty.yaml
+[0.114s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/config/view_bot.rviz
+[0.116s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/gazebo_control.xacro
+[0.117s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/gazebo_control1.xacro
+[0.120s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/inertial_macros.xacro
+[0.121s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/robot.urdf.xacro
+[0.122s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/description/robot_core.xacro
+[0.124s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/launch/launch_sim.launch.py
+[0.125s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/launch/rsp.launch.py
+[0.126s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/worlds/empty.world
+[0.126s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/ament_index/resource_index/package_run_dependencies/projectros
+[0.127s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/ament_index/resource_index/parent_prefix_path/projectros
+[0.129s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/ament_prefix_path.sh
+[0.130s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/ament_prefix_path.dsv
+[0.131s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/path.sh
+[0.132s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/environment/path.dsv
+[0.133s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.bash
+[0.133s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.sh
+[0.134s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.zsh
+[0.137s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/local_setup.dsv
+[0.138s] -- Symlinking: /home/projectros/dev_ws/install/projectros/share/projectros/package.dsv
+[0.151s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/ament_index/resource_index/packages/projectros
+[0.153s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/cmake/projectrosConfig.cmake
+[0.154s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/cmake/projectrosConfig-version.cmake
+[0.155s] -- Up-to-date symlink: /home/projectros/dev_ws/install/projectros/share/projectros/package.xml
+[0.162s] Invoked command in '/home/projectros/dev_ws/build/projectros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/projectros/dev_ws/build/projectros

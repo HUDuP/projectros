@@ -1,0 +1,2 @@
+Invoking command in '/home/projectros/dev_ws/build/projectros': /usr/bin/cmake /home/projectros/dev_ws/src/projectros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/projectros/dev_ws/install/projectros
+Invoked command in '/home/projectros/dev_ws/build/projectros' returned '1': /usr/bin/cmake /home/projectros/dev_ws/src/projectros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/projectros/dev_ws/install/projectros
